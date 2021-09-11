@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tatev/Desktop/untitled1/main.cpp
+iostream
+/home/tatev/Desktop/untitled1/iostream
+test.h
+/home/tatev/Desktop/untitled1/test.h
+test1.h
+/home/tatev/Desktop/untitled1/test1.h
+test2.h
+/home/tatev/Desktop/untitled1/test2.h
+
+/home/tatev/Desktop/untitled1/test.cpp
+iostream
+/home/tatev/Desktop/untitled1/iostream
+test.h
+/home/tatev/Desktop/untitled1/test.h
+
+/home/tatev/Desktop/untitled1/test.h
+
+/home/tatev/Desktop/untitled1/test1.h
+
+/home/tatev/Desktop/untitled1/test2.h
+
